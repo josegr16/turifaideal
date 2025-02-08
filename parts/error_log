@@ -1,0 +1,10 @@
+[24-Jan-2025 12:08:39 America/Caracas] PHP Warning:  Undefined array key "$cedula" in /home/turifaid/public_html/wp-content/themes/turifaideal/parts/procesar_formulario.php on line 6
+[24-Jan-2025 12:11:42 America/Caracas] PHP Warning:  Undefined array key "$cedula" in /home/turifaid/public_html/wp-content/themes/turifaideal/parts/procesar_formulario.php on line 6
+[25-Jan-2025 10:56:03 America/Caracas] PHP Warning:  Undefined variable $numero in /home/turifaid/public_html/wp-content/themes/turifaideal/parts/procesar_formulario.php on line 28
+[25-Jan-2025 11:00:02 America/Caracas] PHP Warning:  Undefined variable $telefono in /home/turifaid/public_html/wp-content/themes/turifaideal/parts/procesar_formulario.php on line 28
+[25-Jan-2025 11:02:21 America/Caracas] PHP Warning:  Undefined array key "numero" in /home/turifaid/public_html/wp-content/themes/turifaideal/parts/procesar_formulario.php on line 7
+[25-Jan-2025 11:02:21 America/Caracas] PHP Warning:  Undefined variable $telefono in /home/turifaid/public_html/wp-content/themes/turifaideal/parts/procesar_formulario.php on line 29
+[25-Jan-2025 11:04:41 America/Caracas] PHP Warning:  Undefined array key "numero" in /home/turifaid/public_html/wp-content/themes/turifaideal/parts/procesar_formulario.php on line 7
+[25-Jan-2025 11:04:41 America/Caracas] PHP Warning:  Undefined variable $telefono in /home/turifaid/public_html/wp-content/themes/turifaideal/parts/procesar_formulario.php on line 29
+[25-Jan-2025 11:11:43 America/Caracas] PHP Warning:  Undefined array key "numero" in /home/turifaid/public_html/wp-content/themes/turifaideal/parts/procesar_formulario.php on line 7
+[25-Jan-2025 11:11:43 America/Caracas] PHP Warning:  Undefined variable $telefono in /home/turifaid/public_html/wp-content/themes/turifaideal/parts/procesar_formulario.php on line 29

@@ -57,6 +57,56 @@ h3.metodos{
     font-size: 60px;
     font-weight: bold;
 }
+.metodos-pago-textos {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;  
+}
+
+.metodo {
+    text-align: center;
+    margin: 0 30px;
+    max-width: 300px;  
+}
+
+.metodo-nombre {
+    font-size: 20px;  
+    font-weight: bold;  
+    color: #333;  
+    margin-bottom: 10px;  
+}
+
+.metodo-descripcion {
+    font-size: 14px; 
+    color: #666;  
+    line-height: 1.5; 
+    margin-top: 5px;  
+}
+
+/* Efecto de hover */
+.metodos-pago-textos p {
+    transition: transform 0.3s ease;
+}
+
+.metodos-pago-textos p:hover {
+    transform: scale(1.1);  /* Efecto de aumento al pasar el ratón */
+}
+
+/* Opcional: Estilo para pantallas pequeñas */
+@media (max-width: 768px) {
+    .metodo {
+        margin: 0 10px;  /* Reducir el espaciado en pantallas pequeñas */
+    }
+
+    .metodo-nombre {
+        font-size: 18px;  /* Reducir el tamaño del texto en pantallas pequeñas */
+    }
+
+    .metodo-descripcion {
+        font-size: 12px;  /* Reducir el tamaño de la descripción en pantallas pequeñas */
+    }
+}
+
 h3.elige_rifas{
     color: #c3b3f1;
     font-size: 60px;
